@@ -2,4 +2,4 @@ const func = require('yozopkg1');
 
 func();
 
-console.log(102230);
+console.log(102333230);
