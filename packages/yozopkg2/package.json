@@ -1,6 +1,6 @@
 {
   "name": "@lsfe/yozopkg2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "yozopkg1": "^1.0.0"
+    "yozopkg1": "^1.0.1"
   }
 }
